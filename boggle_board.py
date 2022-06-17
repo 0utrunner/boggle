@@ -1,6 +1,7 @@
 import string
 import random
 
+
 class BoggleBoard:
   
   def __init__(self):
@@ -20,5 +21,5 @@ case = BoggleBoard()
 
 case.shake()
 
-
-
+#look into ModuleNotFoundError: No module named 'numpy' https://www.pythonpool.com/no-module-named-numpy-solved/
+#https://pynative.com/python-random-choice/#h-randomly-choose-an-item-from-a-list-along-with-its-index-position
